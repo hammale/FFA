@@ -2,6 +2,6 @@ name: FFA
 main: me.hammale.ffa.FFA
 version: 0.3
 author: [OstlerDev, hammale]
-
+depend: [Factions]
 commands:
   FFA:
